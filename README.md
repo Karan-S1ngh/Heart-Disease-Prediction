@@ -3,14 +3,17 @@
 
 ### Project Overview:
 Develop a machine learning-based web application to predict the likelihood of a person developing heart disease within ten years based on their health data. The application will utilize classification algorithms and provide detailed performance metrics including confusion matrix and classification report. The system will be integrated with a Flask web application where users can input their details to get predictions.
+
 <br>
 
 ### Objective:
 To create a predictive model that can accurately identify the risk of heart disease using various health-related features and to integrate this model into a web-based application for easy user access.
+
 <br>
 
 ### Problem Statement:
 Heart disease is a leading cause of mortality globally. Early prediction and prevention are crucial for improving health outcomes. By leveraging machine learning, we aim to create a tool that helps individuals assess their risk based on specific health parameters, thereby enabling timely medical interventions.
+
 <br>
 
 ### Dataset Description:
